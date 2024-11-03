@@ -1,8 +1,8 @@
   # Kanagawa Color Pallette
 
   fuji_white='#dcd7ba'
-  sumi_ink_4='#2a2a37'
-  sumi_ink_2='#1a1a22'
+  sumi_ink_4='#181820'
+  sumi_ink_2='#1f1f28'
   sumi_ink_5='#363646'
   sumi_ink_6='#54546D'
   wave_aqua='#6a9589'
