@@ -29,7 +29,7 @@ set_theme() {
     *)
       white=$fuji_white
       gray=$sumi_ink_4
-      dark_gray=$sumi_ink_2
+      dark_gray=$sumi_ink_3
       light_purple=$sumi_ink_5
       dark_purple=$sumi_ink_6
       cyan=$wave_aqua
